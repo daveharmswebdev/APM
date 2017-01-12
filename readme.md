@@ -1,3 +1,5 @@
+# Angular 2 Plural Sight Tutorial: Getting Started with Angular 2 by Deborah Kurata
+
 1) Open a command prompt in the project's root directory (APM)
 
 2) Type: `npm install`
